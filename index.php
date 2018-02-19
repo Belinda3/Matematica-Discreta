@@ -30,7 +30,7 @@
     <img src="" alt="">
   </div>
   <div class="content">
-    <a href="primero.php" class="header">Primer corte</a>
+    <a href="../Matematica-Discreta/PrimerCorte/primero.php" class="header">Primer corte</a>
     <div class="description">Proyecto de primer corte para la materia Matematica Discreta</div>
   </div>
   </div></div>
